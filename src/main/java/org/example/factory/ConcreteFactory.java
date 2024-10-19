@@ -16,7 +16,6 @@ public class ConcreteFactory extends EntidadeFactory {
     public Seguro criarSeguro(Cliente cliente, double valor) {
 
         // Definindo datas de início e fim do seguro para cumprir com a assinatura do construtor
-
         LocalDate dataInicio = LocalDate.now();  // Data de início como hoje
         LocalDate dataFim = dataInicio.plusYears(1);  // Data de fim como um ano após a data de início
 

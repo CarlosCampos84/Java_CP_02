@@ -22,7 +22,6 @@ public class Main {
         Seguro seguro = factory.criarSeguro(cliente, 5000);
 
         // Correção: Passando a configuração de banco de dados para getInstance()
-
         ServicoSeguro servico = ServicoSeguro.getInstance(db);
         servico.adicionarCliente(cliente);
         servico.adicionarSeguro(seguro);
