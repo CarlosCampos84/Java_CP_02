@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="25260fec-2990-4636-b6ce-d45d79d261af" name="https://github.com/CarlosCampos84/Java_CP_02.git" url="http://https://github.com/CarlosCampos84/Java_CP_02.git">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
