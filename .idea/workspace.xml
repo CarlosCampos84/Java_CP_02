@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8af836ce-1280-430b-9e47-a7d57c2c1238" name="Changes" comment="commit carlos">
       <changelist_data name="CarlosCampos84" email="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/SeguroDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/SeguroDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/SeguroDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/SeguroDAOImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/ConcreteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/ConcreteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Pagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Pagamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/PoliticaSeguro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/PoliticaSeguro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Seguro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Seguro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Sinistro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Sinistro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Fiap/2ºSemestre/Java/CP/2_CP/CP_002tt",
     "node.js.detected.package.eslint": "true",
@@ -120,7 +112,7 @@
       <workItem from="1728926052010" duration="15740000" />
       <workItem from="1729266522627" duration="2387000" />
       <workItem from="1729285501169" duration="5979000" />
-      <workItem from="1729294775738" duration="18944000" />
+      <workItem from="1729294775738" duration="19390000" />
     </task>
     <servers />
   </component>
