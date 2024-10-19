@@ -1,7 +1,7 @@
 package org.example.factory;
 
-import org.example.model.Cliente;
-import org.example.model.Seguro;
+//import org.example.model.Cliente;
+//import org.example.model.Seguro;
 
 import java.time.LocalDate;
 

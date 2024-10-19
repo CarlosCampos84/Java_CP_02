@@ -10,6 +10,7 @@ import org.example.service.ServicoSeguro;
 import java.sql.SQLException;
 
 public class Main {
+
     public static void main(String[] args) throws SQLException {
         BancoConfig db = new BancoConfig(
                 "jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL",
@@ -21,6 +22,7 @@ public class Main {
         Seguro seguro = factory.criarSeguro(cliente, 5000);
 
         // Correção: Passando a configuração de banco de dados para getInstance()
+
         ServicoSeguro servico = ServicoSeguro.getInstance(db);
         servico.adicionarCliente(cliente);
         servico.adicionarSeguro(seguro);
